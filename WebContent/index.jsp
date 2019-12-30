@@ -13,11 +13,11 @@
 </header>
 
 <article>
-
+	본문 입니다
 </article>
 
 <footer>
-
+	풋터 입니다
 </footer>
 
 </body>
